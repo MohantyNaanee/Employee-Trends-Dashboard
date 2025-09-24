@@ -31,7 +31,7 @@ The dashboard empowers HR stakeholders to make informed, strategic decisions by 
 ## 🛠 Tech Stack
 
 - **Tableau** – Core tool for building interactive dashboards and visualizations.
-- **Excel / CSV / SQL** – Data sources for loading employee datasets.
+- **CSV ** – Data sources for loading employee datasets.
 - **Tableau Public / Server** – Dashboard sharing and access control.
 
 ---
@@ -53,10 +53,8 @@ The dashboard empowers HR stakeholders to make informed, strategic decisions by 
 ---
 
 ## Author
-
-**Your Name**  
+**Mohanty Naanee**  
 [LinkedIn](https://www.linkedin.com/in/MohantyNaanee) | [GitHub](https://github.com/MohantyNaanee)
-
 
 
 
