@@ -8,22 +8,22 @@ The dashboard empowers HR stakeholders to make informed, strategic decisions by 
 
 ## 🚀 Features
 
-- ✅ **Attrition Analysis**  
+- **Attrition Analysis**  
   Track and visualize employee attrition trends over time, segmented by department, job role, location, and tenure.
 
-- ✅ **Demographic Insights**  
+- **Demographic Insights**  
   Breakdown of workforce by age group, gender, department, education level, and job level.
 
-- ✅ **Employee Satisfaction Index**  
+- **Employee Satisfaction Index**  
   Real-time monitoring of employee satisfaction scores, survey data, and sentiment analysis.
 
-- ✅ **Interactive Dashboards**  
+- **Interactive Dashboards**  
   Dynamic filters and drill-down capabilities allow users to explore trends and uncover hidden patterns.
 
-- ✅ **Retention & Risk Analysis**  
+- **Retention & Risk Analysis**  
   Identify at-risk employees using predictive metrics and design targeted retention strategies.
 
-- ✅ **Customizable Views**  
+- **Customizable Views**  
   Stakeholders can tailor dashboards by role (e.g., HRBP, Manager, Executive) for personalized insights.
 
 ---
@@ -52,10 +52,11 @@ The dashboard empowers HR stakeholders to make informed, strategic decisions by 
 
 ---
 
-## 🧠 Author
+## Author
 
 **Your Name**  
 [LinkedIn](https://www.linkedin.com/in/MohantyNaanee) | [GitHub](https://github.com/MohantyNaanee)
+
 
 
 
