@@ -44,18 +44,11 @@ The dashboard empowers HR stakeholders to make informed, strategic decisions by 
 
 ---
 
-## 🔄 Future Enhancements
-
-- Integration with **HRIS platforms** (e.g., Workday, SAP SuccessFactors)
-- Add **predictive modeling** for attrition risk scoring
-- Real-time data sync using **APIs** or **ETL pipelines**
-- Introduce **diversity & inclusion** analytics and equity metrics
-
----
 
 ## 📎 Screenshots
+![Employee Trends Dashboard Screenshot](https://raw.githubusercontent.com/MohantyNaanee/Employee-Trends-Dashboard/main/Screenshot%20(1).png)
 
-*(Include dashboard screenshots here)*
+
 
 ---
 
@@ -63,5 +56,6 @@ The dashboard empowers HR stakeholders to make informed, strategic decisions by 
 
 **Your Name**  
 [LinkedIn](https://www.linkedin.com/in/MohantyNaanee) | [GitHub](https://github.com/MohantyNaanee)
+
 
 
